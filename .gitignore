@@ -1,0 +1,16 @@
+/chat_history,db
+/chat_message_history.ipynb
+/docker-compose.yml
+/Dockerfile
+/myollama_output_parse.ipynb
+/my_ollama_chatbot multimodel v2.py
+/my_ollama_chatbot multimodel v3.py
+/my_ollama_chatbot multimodel.py
+/my_ollama_chatbot.py
+/my_ollama_v1.ipynb
+/ollamagenai
+/pdf_read_doc_build.ipynb
+/rag_doc_build.ipynb
+/setup_chat_history,db
+/sreejith_llm,db
+/transform_learn1.ipynb
